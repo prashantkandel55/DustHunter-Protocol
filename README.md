@@ -2,6 +2,8 @@
 
 **Dusthunter Protocol** is a premium, high-fidelity cryptographic surveillance engine designed to identify, analyze, and neutralize potential threats to blockchain wallets. Built by **ancientiorr**, it combines the reasoning power of Gemini 3 with real-time web grounding to provide a tactical "Mission Control" interface for your digital assets.
 
+![Dashboard](Dashboard.png)
+
 ## 🛰️ Intelligence Overview
 
 In the modern decentralized landscape, wallets are constant targets for dusting attacks, zero-transfer poisoning, and phishing schemes. Dusthunter provides the ultimate recon tool to verify the integrity of any address on major chains (Ethereum, Solana, Bitcoin, Polygon).

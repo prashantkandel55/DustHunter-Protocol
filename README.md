@@ -2,7 +2,7 @@
 
 **Dusthunter Protocol** is a premium, high-fidelity cryptographic surveillance engine designed to identify, analyze, and neutralize potential threats to blockchain wallets. Built by **ancientiorr**, it combines the reasoning power of Gemini 3 with real-time web grounding to provide a tactical "Mission Control" interface for your digital assets.
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🛰️ Intelligence Overview
 
